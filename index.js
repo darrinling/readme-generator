@@ -73,7 +73,7 @@ function writeToFile(data) {
   ## Questions
   ${data.questions}`
 
-  fs.writeFile('readme.md', content, err => {
+  fs.writeFile('README.md', content, err => {
     if (err) {
       console.error(err);
     }
