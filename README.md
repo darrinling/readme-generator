@@ -13,7 +13,7 @@
   After prompting the user to answer a series of questions, ReadMe Generator will create a new markdown file with the information given by the user.
 
   ## Usage
-  See installation requirements above.
+  See usage video here: https://drive.google.com/file/d/1oYvXj8GyMS9Xmp-BvDk1W-VMnbpg8d1i/view?usp=sharing
 
   ## Installation
   Clone the repository, install the dependencies and run the index.js file in the terminal using node.
